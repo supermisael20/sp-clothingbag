@@ -12,5 +12,11 @@ Add this to your qb-core/shared/items.lua:
 
 # Dependencies
 qb-core - https://github.com/qbcore-framework/qb-core
+
+
 qb-clothing - https://github.com/qbcore-framework/qb-core (can be replaced to fivem-appearance)
+
+
+
+
 fivem-appearance - https://github.com/iLLeniumStudios/fivem-appearance (can be replaced to qb-clothing)
