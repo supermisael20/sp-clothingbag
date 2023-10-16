@@ -20,3 +20,10 @@ qb-clothing - https://github.com/qbcore-framework/qb-core (can be replaced to fi
 
 
 fivem-appearance - https://github.com/iLLeniumStudios/fivem-appearance (can be replaced to qb-clothing)
+
+
+
+
+Comunidad:
+
+https://discord.gg/hMKYrQBG2P
