@@ -10,7 +10,7 @@ Add this to your qb-core/shared/items.lua:
 ["clothing_bag"]  	= {["name"] = "clothing_bag", 			["label"] = "Clothing Bag", 								["weight"] = 100, 		["type"] = "item", 			["image"] = "clothingbag.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
 
 
-# Dependencies
+# Dependencias 
 qb-core - https://github.com/qbcore-framework/qb-core
 
 
