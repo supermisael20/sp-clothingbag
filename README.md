@@ -1,19 +1,3 @@
----
-description: >-
-  Players can access this bag to change their appearance quickly and
-  conveniently, without needing to visit an in-game clothing store.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # Installation Guide
 
