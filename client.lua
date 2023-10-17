@@ -18,7 +18,7 @@ AddEventHandler("sp-clothingbag:client:outfitbag", function(itemName)
 
 
     action = true
-    QBCore.Functions.Progressbar("Sacando la ropa de la bolsa", "Sacando la ropa de la bolsa", 3000, false, true, {
+    QBCore.Functions.Progressbar("Taking clothes out of the bag", "Taking clothes out of the bag", 3000, false, true, {
         disableMovement = false,
         disableCarMovement = false,
         disableMouse = false,
