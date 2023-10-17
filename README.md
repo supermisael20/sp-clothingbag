@@ -1,5 +1,5 @@
 
-# Instalacion
+# Installation
 Add image for qb-inventory/html/images.
 
 
@@ -12,7 +12,7 @@ Add this to your qb-core/shared/items.lua:
 
 ```
 
-# Dependencias 
+# Dependencies 
 qb-core - https://github.com/qbcore-framework/qb-core
 
 
@@ -26,6 +26,5 @@ fivem-appearance - https://github.com/iLLeniumStudios/fivem-appearance (can be r
 
 
 
-# Comunidad
-
+# Community
 https://discord.gg/hMKYrQBG2P
