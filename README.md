@@ -21,4 +21,4 @@ fivem-appearance - https://github.com/iLLeniumStudios/fivem-appearance (can be r
 
 ## Community
 
-https://discord.gg/hMKYrQBG2P
+https://discord.gg/ANhvv4zP
